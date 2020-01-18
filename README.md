@@ -8,7 +8,7 @@ to you **Arduino IDE**.
   2. Servo Motor
   3. Connecting Wire
   
-Now to control the bluetooth module you will need an android phone.You can use this software to 
+Now to control the bluetooth module you will need an android phone.You can use this software below to 
 connect the bluetooth module to your phone.Just simply tap ON and OFF and control your servo
 motor.
 >Android Software
