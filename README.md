@@ -1,4 +1,4 @@
-# Bluetooth-Controlled-Servo-using-Arduino
+# Bluetooth Controlled Servo using Arduino
 This project aims to ON and OFF a servo motor by bluetooth module using arduino.Fist you have to
 install **Servo.h** and **SoftwareSerial.h** library for servo mototor and the bluetooth module
 to you **Arduino IDE**.
